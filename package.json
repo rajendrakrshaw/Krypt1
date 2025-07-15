@@ -5,8 +5,10 @@
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
-    "ethers": "^6.13.4",
     "hardhat": "^2.22.17",
     "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "ethers": "^5.8.0"
   }
 }
