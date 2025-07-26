@@ -13,6 +13,6 @@ createRoot(document.getElementById('root')).render(
   <TransactionProvider>
     <StrictMode>
       <App />
-    </StrictMode>,
+    </StrictMode>
   </TransactionProvider>
 )
