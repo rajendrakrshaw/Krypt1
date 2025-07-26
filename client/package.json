@@ -12,8 +12,7 @@
   "dependencies": {
     "@ethersproject/providers": "^5.7.2",
     "@walletconnect/web3-provider": "^1.8.0",
-    "buffer": "npm:Buffer@^0.0.0",
-    "Buffer": "^0.0.0",
+    "buffer": "^6.0.3",
     "ethers": "^5.7.2",
     "process": "^0.11.10",
     "react": "^18.3.1",
@@ -22,7 +21,7 @@
     "stream-browserify": "^3.0.0",
     "util": "^0.12.5",
     "web3modal": "^1.9.12",
-    "ethereumjs-abi": "https://github.com/ethereumjs/ethereumjs-abi.git"
+    "ethereumjs-abi": "^0.6.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
